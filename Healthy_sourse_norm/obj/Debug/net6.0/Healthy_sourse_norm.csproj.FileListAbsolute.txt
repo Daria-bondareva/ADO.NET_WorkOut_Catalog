@@ -1,0 +1,14 @@
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\bin\Debug\net6.0\Healthy_sourse_norm.exe
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\bin\Debug\net6.0\Healthy_sourse_norm.deps.json
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\bin\Debug\net6.0\Healthy_sourse_norm.runtimeconfig.json
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\bin\Debug\net6.0\Healthy_sourse_norm.dll
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\bin\Debug\net6.0\Healthy_sourse_norm.pdb
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.AssemblyInfoInputs.cache
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.AssemblyInfo.cs
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.csproj.CoreCompileInputs.cache
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.dll
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\refint\Healthy_sourse_norm.dll
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.pdb
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.genruntimeconfig.cache
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\ref\Healthy_sourse_norm.dll

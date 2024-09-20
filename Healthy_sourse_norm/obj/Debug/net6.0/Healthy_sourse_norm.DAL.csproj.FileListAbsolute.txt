@@ -1,0 +1,5 @@
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.DAL.csproj.AssemblyReference.cache
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.DAL.AssemblyInfoInputs.cache
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.DAL.AssemblyInfo.cs
+C:\Net_2024\Healthy_sourse_norm\Healthy_sourse_norm\obj\Debug\net6.0\Healthy_sourse_norm.DAL.csproj.CoreCompileInputs.cache

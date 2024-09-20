@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Healthy_sourse.DAL.props" />
+</Project>

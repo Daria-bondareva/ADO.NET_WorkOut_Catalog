@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Healthy_sourse.DAL.props" />
+</Project>

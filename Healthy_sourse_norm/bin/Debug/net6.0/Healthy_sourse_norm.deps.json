@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Healthy_sourse_norm/1.0.0": {
+        "runtime": {
+          "Healthy_sourse_norm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Healthy_sourse_norm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
